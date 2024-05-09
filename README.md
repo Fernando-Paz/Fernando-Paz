@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 ## 🌐 Experience
 
 - 🖥 Odoo consultant and developer - Lytics
-        Developer in the creation and customization of enterprise applications Odoo ERP, Community and Enterprise version 
+- Developer in the creation and customization of enterprise applications Odoo ERP, Community and Enterprise version 
         management, Online hosting control, SH or other servers such as AWS, Postgresql database management, data analysis 
         for Information Centers, knowledge of workflow and consulting in accounting area of SAT stamped documents.
 
 - 🖥 AWS Partner
-        Cloud expertise, delivering world-class innovative solutions to customers in diverse industries using AWS services to 
+- Cloud expertise, delivering world-class innovative solutions to customers in diverse industries using AWS services to 
         provide scalable architectures, seamless migrations, and cost optimization to maximize performance and operational efficiency.
 
 - 🖥 Microsoft Student Partners - MLSA
-        Member of the Microsoft Ambassadors program, to contribute to the community and develop technical skills using 
+- Member of the Microsoft Ambassadors program, to contribute to the community and develop technical skills using 
         the latest technology and programming.
 
 
