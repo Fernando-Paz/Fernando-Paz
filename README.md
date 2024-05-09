@@ -60,24 +60,24 @@ Here are some ideas to get you started:
 
 ## 🔭 Fun fact
 
-- 🎯 No me gusta no hacer nada
+- 🎯 I don't like to do nothing
 
-- 🎯 Me gusta jugar futbol
+- 🎯 I like to play soccer
 
-- 🎯 Casi no me gusta leer al no se que si me llame la atención la trama, me gustan de tipo mitología, policiacos, futurista
+- 🎯 I almost don't like to read because I don't know if the plot catches my attention, I like mythology, detective, futuristic.
 
-- 🎯 No puedo trabajar si no estoy escuchando música
+- 🎯 I can't work if I'm not listening to music
 
-- 🎯 Me gusta todo tipo de géneros de películas -> Mi película favorita El rey leon
+- 🎯 I like all kinds of movie genres - my favorite movie The Lion King
 
-- 🎯 Me gusta todo tipo de series -> Mi serie favorita White Collar
+- 🎯 I like all kinds of series - my favorite series White Collar
 
-- 🎯 Me gusta el ánime -> Mi ánime favorito Nanatsu no taizai y personaje favorito "BAN"
+- 🎯 I like anime - my favorite anime Nanatsu no taizai and favorite character "BAN".
 
-- 🎯 Me gusta jugar en computadora -> Mis juegos favoritos son Age of Empires II DE y Age of Mitology
+- 🎯 I like to play computer games -> my favorite games are Age of Empires II DE and Age of Mythology
 
-- 🎯 Me gusta jugar en el celular -> Mis juegos favoritos son Mobile Legends, Call of Duty y Pokemon Go
+- 🎯 I like to play on my cell phone -> my favorite games are Mobile Legends, Call of Duty and Pokemon Go
 
-- 🎯 Me gusta jugar xbox -> Mis juegos favoritos son Fifa, Halo, Killer Instinct
+- 🎯 I like to play xbox -> my favorite games are Fifa, Halo, Killer Instinct
 
-- 🎯 Me gusta jugar juegos de mesa -> Mi juego favorito es el Ajedrez
+- 🎯 I like to play board games -> my favorite game is Chess
